@@ -1,5 +1,5 @@
 # Timer settings
 
-id – '.timer class'
+**id** – '.timer class'
 
-deadline – 'data(for example: 2022-12-12')
+**deadline** – 'data(for example: 2022-12-12')
