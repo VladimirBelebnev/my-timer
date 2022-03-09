@@ -6,4 +6,7 @@
 
 ***HTML name***
 
-#seconds, #minutes, #hours, #days
+#seconds
+#minutes
+#hours
+#days
