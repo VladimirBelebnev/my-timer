@@ -4,12 +4,12 @@
 
 **deadline** – 'data(for example: 2022-12-12')
 
-***HTML name***
+**HTML name:**
 
-#seconds
+1. #seconds
 
-#minutes
+2. #minutes
 
-#hours
+3. #hours
 
-#days
+4. #days
