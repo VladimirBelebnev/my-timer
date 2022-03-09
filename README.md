@@ -4,7 +4,7 @@
 
 **deadline** – 'data(for example: 2022-12-12')
 
-**HTML name:**
+**HTML name for selector:**
 
 1. #seconds
 
