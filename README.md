@@ -13,7 +13,7 @@ This timer is perfect for web stores for the counter of the remaining time (for 
     <div/>
     
       
-Note that #timer must wrap tree elements
+Note that name="(days, hours, minutes, seconds)" is a required attribute that must be wrapped in a generic class (for example name="timer")
     
 ### JS attribute
 
