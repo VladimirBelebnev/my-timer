@@ -22,7 +22,7 @@ Note that #timer must wrap tree elements
     
 ### JS attribute
 
-***timer(id, deadline);***
+**timer(id, deadline);**
     
 id – '#name(If we take the example above, or any '.class', the [date attribute])';
     
