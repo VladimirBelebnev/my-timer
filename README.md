@@ -17,9 +17,9 @@ Note that #timer must wrap tree elements
     
 ### JS attribute
 
-**timer(id, deadline);**
+    <script>timer(id, deadline);<script/>
     
-id – '#name(If we take the example above, or any '.class', the [date attribute])';
+**id** – '#name(If we take the example above, or any '.class', the [date attribute])';
     
-deadline – 'data(for example: '2022-12-12')';
+**deadline** – 'data(for example: '2022-12-12')';
 
