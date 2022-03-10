@@ -4,6 +4,7 @@ This timer is perfect for web stores for the counter of the remaining time (for 
 
 ### HTML structure:
 
+
   <div name="timer">
   
     <span name="days"><span/>
@@ -16,6 +17,7 @@ This timer is perfect for web stores for the counter of the remaining time (for 
       
   <div/>
     
+      
 Note that #timer must wrap tree elements
     
 ### JS attribute
