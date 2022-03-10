@@ -1,15 +1,23 @@
 # Timer settings
 
-**id** – '.timer class'
+This timer is perfect for web stores for the counter of the remaining time (for example, until the end of the promotion). It is easy to use and even a beginner can figure it out. You only need to enter two arguments.
 
-**deadline** – 'data(for example: 2022-12-12')
+### HTML structure:
 
-**HTML name for selector:**
+<div name="timer">
+  <span name="days"><span/>
+  <span name="hours"><span/>
+  <span name="minutes"><span/>
+  <span name="seconds"><span/>
+<div/>
+    
+Note that #timer must wrap tree elements
+    
+### JS attribute
 
-1. #seconds
+***timer(id, deadline);***
+    
+id – '#name(If we take the example above, or any '.class', the [date attribute])';
+    
+deadline – 'data(for example: 2022-12-12')
 
-2. #minutes
-
-3. #hours
-
-4. #days
