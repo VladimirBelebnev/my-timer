@@ -17,7 +17,7 @@ Note that name="(days, hours, minutes, seconds)" is a required attribute that mu
     
 ### JS attribute
 
-    <script>timer(id, deadline);<script/>
+    <script>timer(id, deadline)<script/>
     
 **id** – '#name(If we take the example above, or any '.class', the [date-attribute])';
     
