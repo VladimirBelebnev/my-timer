@@ -1,4 +1,4 @@
-# Timer settings
+# my–timer
 
 This timer is perfect for web stores for the counter of the remaining time (for example, until the end of the promotion). It is easy to use and even a beginner can figure it out. You only need to enter two arguments.
 
