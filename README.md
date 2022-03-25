@@ -5,11 +5,11 @@ This timer is perfect for web stores for the counter of the remaining time (for 
 ### HTML structure:
 
 
-    <div name="timer">
-      <span name="days"><span/>
-      <span name="hours"><span/>
-      <span name="minutes"><span/>
-      <span name="seconds"><span/> 
+    <div id="timer">
+      <span id="days"><span/>
+      <span id="hours"><span/>
+      <span id="minutes"><span/>
+      <span id="seconds"><span/> 
     <div/>
     
       
