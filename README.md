@@ -1,4 +1,4 @@
-# my–timer
+# my–timer 🕐
 
 This timer is perfect for web stores for the counter of the remaining time (for example, until the end of the promotion). It is easy to use and even a beginner can figure it out. You only need to enter two arguments.
 
@@ -13,7 +13,7 @@ This timer is perfect for web stores for the counter of the remaining time (for 
     <div/>
     
       
-Note that name="(days, hours, minutes, seconds)" is a required attribute that must be wrapped in a generic class (for example name="timer")
+❗Note that name="(days, hours, minutes, seconds)" is a required attribute that must be wrapped in a generic class (for example name="timer")
     
 ### JS attribute
 
